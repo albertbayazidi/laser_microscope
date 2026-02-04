@@ -2,7 +2,9 @@
 
 This is the repo where my laser microscope lives.
 
-[Cad view of image](images/CAD_view.png)
+<p align="center">
+  <img width="50%" src="image/CAD_view.png" />
+</p>
 
 
 # Project Overview
